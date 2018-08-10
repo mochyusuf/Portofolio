@@ -96,3 +96,8 @@
   font-size: 66px;
   padding-right: 2rem;
 }
+
+.resume-right-col{
+  background: rgb(34, 23, 58);
+  color: #ffffff;
+}
