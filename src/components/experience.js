@@ -12,7 +12,12 @@ class Experience extends Component{
                     <h4 style={{marginTop:'0px'}}>
                         {this.props.jobName}
                     </h4>
-                    <p>{this.props.jobDescription}</p>
+                    <ul>
+                        <li>Menerjemahkan wireframe UI Client ke prototipe mobile app menggunakan ionic </li>
+                        <li>Implementasi responsive UI di website menggunakan HTML/CSS dan javascript</li>
+                        <li>Uprade sistem MLM dari PHP 5.1 ke PHP 7.1</li>
+                        <li>Menambah fitur ke sistem MLM</li>
+                    </ul>
                 </Cell>
             </Grid>
         )

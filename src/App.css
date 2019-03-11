@@ -1,13 +1,13 @@
 .header-color{
-  background: #8E2DE2;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #4A00E0, #8E2DE2);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #4A00E0, #8E2DE2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: #e22d2d;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #e00000, #e22d2d);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #e00000, #e22d2d); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 .landing-grid{
-  background: #8E2DE2;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #4A00E0, #8E2DE2);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #4A00E0, #8E2DE2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: #e22d2d;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #e00000, #e22d2d);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #e00000, #e22d2d); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 .avatar-img{
@@ -100,4 +100,12 @@
 .resume-right-col{
   background: rgb(34, 23, 58);
   color: #ffffff;
+}
+
+ul.list {
+  
+}
+
+ul.list li {
+
 }

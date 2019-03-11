@@ -7,27 +7,17 @@ class Landing extends Component{
             <div style={{width : '100%', margin: 'auto'}}>
                 <Grid className='landing-grid'>
                     <Cell col={12}>
-                        <img src="logo.png" alt="Avatar" className="avatar-img"/>
-
+                        <img src="foto.jpg" alt="Avatar" className="avatar-img"/>
                         <div className="banner-text">
-                            <h1>Lorem, ipsum dolor</h1>
+                            <h1>Web & Mobile Developer</h1>
                             <hr/>
-                            <p>HTML/CSS | Bootstrap | JavaScript</p>
+                            <p>Android | PHP | JavaScript | Unity</p>
                         </div>
                         <div className="social-link">
-                            <a href="http://google.com" rel="noopener noreferrer" target="_blank">
-                                <i className="fa fa-linkedin-square" aria-hidden="true"></i>
+                            <a href="https://github.com/mochyusuf" rel="noopener noreferrer" target="_blank">
+                                <i className="fa fa-github-square" aria-hidden="true"></i>
                             </a>
-
-                            <a href="http://google.com" rel="noopener noreferrer" target="_blank">
-                                <i className="fa fa-free-code-camp" aria-hidden="true"></i>
-                            </a>
-
-                            <a href="http://google.com" rel="noopener noreferrer" target="_blank">
-                                <i className="fa fa-youtube-square" aria-hidden="true"></i>
-                            </a>
-
-                            <a href="http://google.com" rel="noopener noreferrer" target="_blank">
+                            <a href="https://www.linkedin.com/in/mochamad-yusuf-5b1466128/" rel="noopener noreferrer" target="_blank">
                                 <i className="fa fa-linkedin-square" aria-hidden="true"></i>
                             </a>
                         </div>
