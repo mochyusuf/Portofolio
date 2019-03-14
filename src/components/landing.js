@@ -15,10 +15,13 @@ class Landing extends Component{
                         </div>
                         <div className="social-link">
                             <a href="https://github.com/mochyusuf" rel="noopener noreferrer" target="_blank">
-                                <i className="fa fa-github-square" aria-hidden="true"></i>
+                                <i className="fab fa-github" aria-hidden="true"></i>
                             </a>
                             <a href="https://www.linkedin.com/in/mochamad-yusuf-5b1466128/" rel="noopener noreferrer" target="_blank">
-                                <i className="fa fa-linkedin-square" aria-hidden="true"></i>
+                                <i className="fab fa-linkedin" aria-hidden="true"></i>
+                            </a>
+                            <a href="https://play.google.com/store/apps/developer?id=Mochamad+Yusuf" rel="noopener noreferrer" target="_blank">
+                                <i className="fab fa-google-play" aria-hidden="true"></i>
                             </a>
                         </div>
                     </Cell>

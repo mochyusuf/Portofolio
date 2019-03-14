@@ -16,19 +16,19 @@ class Contact extends Component{
                         <div className="contact-list">
                             <List>
                                 <ListItem>
-                                    <ListItemContent style={{fontSize:'15px',fontFamily:'Anton'}}><i className='fa fa-whatsapp' aria-hidden='true'></i>+62-85221120369</ListItemContent>
+                                    <ListItemContent style={{fontSize:'15px',fontFamily:'Anton'}}><a href="https://api.whatsapp.com/send?phone=6285221120369"><i className='fab fa-whatsapp' aria-hidden='true'></i>+62-85221120369</a></ListItemContent>
                                 </ListItem>
                                 
                                 <ListItem>
-                                    <ListItemContent style={{fontSize:'15px',fontFamily:'Anton'}}><i className='fa fa-github-square' aria-hidden='true'></i><a href="https://github.com/mochyusuf">https://github.com/mochyusuf</a></ListItemContent>
+                                    <ListItemContent style={{fontSize:'15px',fontFamily:'Anton'}}><i className='fab fa-github' aria-hidden='true'></i><a href="https://github.com/mochyusuf">https://github.com/mochyusuf</a></ListItemContent>
                                 </ListItem>
 
                                 <ListItem>
-                                    <ListItemContent style={{fontSize:'15px',fontFamily:'Anton'}}><i className='fa fa-envelope-o' aria-hidden='true'></i><a href="mailto:mochyusuf100@gmail.com">mochyusuf100@gmail.com</a></ListItemContent>
+                                    <ListItemContent style={{fontSize:'15px',fontFamily:'Anton'}}><i className='far fa-envelope' aria-hidden='true'></i><a href="mailto:mochyusuf100@gmail.com">mochyusuf100@gmail.com</a></ListItemContent>
                                 </ListItem>
 
                                 <ListItem>
-                                    <ListItemContent style={{fontSize:'15px',fontFamily:'Anton'}}><i className='fa fa-linkedin-square' aria-hidden='true'></i><a href="https://www.linkedin.com/in/mochamad-yusuf-5b1466128/">https://www.linkedin.com/in/mochamad-yusuf-5b1466128/</a></ListItemContent>
+                                    <ListItemContent style={{fontSize:'15px',fontFamily:'Anton'}}><i className='fab fa-linkedin' aria-hidden='true'></i><a href="https://www.linkedin.com/in/mochamad-yusuf-5b1466128/">https://www.linkedin.com/in/mochamad-yusuf-5b1466128/</a></ListItemContent>
                                 </ListItem>
                             </List>
                         </div>

@@ -37,9 +37,9 @@ class Project extends Component{
 
                      {/* Project 3 */}
                     <Col sm={12} md={6} lg={4}>
-                        <Card shadow={5} style={{minWidth:'450', margin:'auto'}}>
+                        <Card shadow={5} style={{margin:'auto'}}>
                             <CardTitle>Game Tebak Lagu</CardTitle>
-                            <img src={"portofolio/unity_3.jpg"} style={{color:'black',height:'176px',background: 'url() center / cover'}} />
+                            <img src={"portofolio/unity_3.jpg"} style={{color:'black',height:'500px',background: 'url() center / cover'}} />
                             <CardText>
                                 Game Tebak lirik lagu
                             </CardText>
