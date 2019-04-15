@@ -20,7 +20,7 @@ class Project extends Component{
                             <CardTitle>Game Labirin</CardTitle>
                             <img src={"portofolio/unity_1.jpg"} style={{color:'black',height:'176px',background: 'url() center / cover'}} />
                             <CardText>
-                                Game labirin untuk perangkat android, terdapat kuis yang harus dikerjakan oleh pemain
+                                Maze game for android with quiz
                             </CardText>
                         </Card>
                     </Col>
@@ -30,7 +30,7 @@ class Project extends Component{
                             <CardTitle>Game Congklak</CardTitle>
                             <img src={"portofolio/unity_2.jpg"} style={{color:'black',height:'176px',background: 'url() center / cover'}} />
                             <CardText>
-                                Game congklak sederhana dengan pilihan papan beraneka ragam.
+                                Game congklak with board choice ,pvc (player vs computer) and pvp (player vs player) 
                             </CardText>
                         </Card>
                     </Col>
@@ -41,7 +41,7 @@ class Project extends Component{
                             <CardTitle>Game Tebak Lagu</CardTitle>
                             <img src={"portofolio/unity_3.jpg"} style={{color:'black',height:'500px',background: 'url() center / cover'}} />
                             <CardText>
-                                Game Tebak lirik lagu
+                                Guess the song lyric game
                             </CardText>
                         </Card>
                     </Col>
@@ -56,7 +56,7 @@ class Project extends Component{
                             <CardTitle>Hotel Kuningan</CardTitle>
                             <img src={"portofolio/android_1.jpg"} style={{color:'black',height:'500px',background: 'url() center / cover'}} />
                             <CardText>
-                                Aplikasi informasi hotel di kabupaten kuningan
+                                App mobile information about hotel in Kuningan
                             </CardText>
                         </Card>
                     </Col>
@@ -67,7 +67,7 @@ class Project extends Component{
                             <CardTitle>Mimio Express</CardTitle>
                             <img src={"portofolio/android_2.jpg"} style={{color:'black',height:'500px',background: 'url() center / cover'}} />
                             <CardText>
-                                Prototipe aplikasi pengiriman makanan
+                                Prototipe app food delivery
                             </CardText>
                         </Card>
                     </Col>
@@ -82,7 +82,7 @@ class Project extends Component{
                             <CardTitle>NVision Member</CardTitle>
                             <img src={"portofolio/website_1.png"} style={{color:'black',height:'176px',background: 'url() center / cover'}} />
                             <CardText>
-                                Website untuk member Nvision melakukan transaksi dan mengelola account
+                                Website for newVision member
                             </CardText>
                         </Card>
                     </Col>
@@ -92,7 +92,7 @@ class Project extends Component{
                             <CardTitle>Admin Hotel Kuningan</CardTitle>
                             <img src={"portofolio/website_2.png"} style={{color:'black',height:'176px',background: 'url() center / cover'}} />
                             <CardText>
-                                Website untuk mengelola aplikasi hotel kuningan dan sebagai webservie
+                                Admin Panel for android app Hotel Kuningan and Webservice 
                             </CardText>
                         </Card>
                     </Col>
@@ -102,7 +102,7 @@ class Project extends Component{
                             <CardTitle>CodeIgniter Blog</CardTitle>
                             <img src={"portofolio/website_3.png"} style={{color:'black',height:'176px',background: 'url() center / cover'}} />
                             <CardText>
-                                Blog sederhana dibangun menggunakan Codeigniter.
+                                Simple blog using CodeIgniter 3
                             </CardText>
                         </Card>
                     </Col>
@@ -117,7 +117,7 @@ class Project extends Component{
                             <CardTitle>Ekonomi Rakyat Peduli</CardTitle>
                             <img src={"portofolio/ionic_1.jpg"} style={{color:'black',height:'500px',background: 'url() center / cover'}} />
                             <CardText>
-                                Prototipe Aplikasi MLM Mobile
+                                Prototipe MLM (Multi Level Marketing) App in android
                             </CardText>
                         </Card>
                     </Col>

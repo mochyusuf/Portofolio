@@ -13,10 +13,10 @@ class Experience extends Component{
                         {this.props.jobName}
                     </h4>
                     <ul>
-                        <li>Menerjemahkan wireframe UI Client ke prototipe mobile app menggunakan ionic </li>
-                        <li>Implementasi responsive UI di website menggunakan HTML/CSS dan javascript</li>
-                        <li>Uprade sistem MLM dari PHP 5.1 ke PHP 7.1</li>
-                        <li>Menambah fitur ke sistem MLM</li>
+                        <li>Add new feature to existing MLM system</li>
+                        <li>Upgrade existing MLM system from PHP 5.1 to PHP 7.1</li>
+                        <li>Implement responsive UI in website using HTML/CSS and JavaScript</li>
+                        <li>Translated client UI wireframes into prototype mobile app in ionic</li>
                     </ul>
                 </Cell>
             </Grid>

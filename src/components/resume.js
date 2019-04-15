@@ -12,7 +12,7 @@ class Resume extends Component{
         return(
             <div>
                 <Row>
-                    <Col sm={12} md={4}>
+                    <Col sm={12} md={4} style={{margin:'20px'}}>
                         <div style={{textAlign:'center'}}>
                             <img src="foto.jpg" alt="Avatar" className="avatar-img" style={{height:'200px'}}/>
                         </div>
@@ -23,8 +23,6 @@ class Resume extends Component{
                             Web & Mobile Developer
                         </h4>
                         <hr style={{borderTop:'3px solid #833fb2',width:'50%'}}/>
-                        <h5>Address</h5>
-                        <p>Jalan Ramajaksa No 312 RT 08/02 Kelurahan Purwawinangun Kecamatan Kuningan</p>
                         <h5>Phone</h5>
                         <p>+62-85221120369</p>
                         <h5>Email</h5>
@@ -36,7 +34,7 @@ class Resume extends Component{
                             startYear={2013}
                             endYear={2017}
                             schoolName='UNIVERSITAS KUNINGAN'
-                            schoolDescription='Teknik Informatika'
+                            schoolDescription='Information Enginering'
                         />
                         
                         <hr style={{borderTop:'3px solid #833fb2',width:'50%'}}/>

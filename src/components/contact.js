@@ -28,7 +28,7 @@ class Contact extends Component{
                                 </ListItem>
 
                                 <ListItem>
-                                    <ListItemContent style={{fontSize:'15px',fontFamily:'Anton'}}><i className='fab fa-linkedin' aria-hidden='true'></i><a href="https://www.linkedin.com/in/mochamad-yusuf-5b1466128/">https://www.linkedin.com/in/mochamad-yusuf-5b1466128/</a></ListItemContent>
+                                    <ListItemContent style={{fontSize:'15px',fontFamily:'Anton'}}><i className='fab fa-linkedin' aria-hidden='true'></i><a href="https://www.linkedin.com/in/mocha-yusuf/">https://www.linkedin.com/in/mocha-yusuf/</a></ListItemContent>
                                 </ListItem>
                             </List>
                         </div>

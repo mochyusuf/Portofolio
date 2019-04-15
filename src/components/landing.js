@@ -17,7 +17,7 @@ class Landing extends Component{
                             <a href="https://github.com/mochyusuf" rel="noopener noreferrer" target="_blank">
                                 <i className="fab fa-github" aria-hidden="true"></i>
                             </a>
-                            <a href="https://www.linkedin.com/in/mochamad-yusuf-5b1466128/" rel="noopener noreferrer" target="_blank">
+                            <a href="https://www.linkedin.com/in/mocha-yusuf/" rel="noopener noreferrer" target="_blank">
                                 <i className="fab fa-linkedin" aria-hidden="true"></i>
                             </a>
                             <a href="https://play.google.com/store/apps/developer?id=Mochamad+Yusuf" rel="noopener noreferrer" target="_blank">
